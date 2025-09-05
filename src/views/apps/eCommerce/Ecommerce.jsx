@@ -23,7 +23,7 @@ const Ecommerce = () => {
 
   return (
     <ProductProvider>
-      <PageContainer title="Shop List" description="this is Shop List page">
+      <PageContainer title="Shop List" description="this is Shop List page1">
         {/* breadcrumb */}
         <Breadcrumb title="Ecom-Shop" items={BCrumb} />
         <AppCard>
