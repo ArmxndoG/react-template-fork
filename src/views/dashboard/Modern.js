@@ -15,7 +15,7 @@ import WeeklyStats from '../../components/dashboards/modern/WeeklyStats';
 import TopPerformers from '../../components/dashboards/modern/TopPerformers';
 import Welcome from 'src/layouts/full/shared/welcome/Welcome';
 
-const Modern = () => {
+const Modernn = () => {
   return (
     <Box>
       <Grid container spacing={3}>
@@ -74,5 +74,10 @@ const Modern = () => {
     </Box>
   );
 };
+
+const Modern = () => {
+  return ("Hola mundo"  );
+};
+
 
 export default Modern;
